@@ -25,7 +25,7 @@ python 实现自动抢单，目前只能实现秒(或毫秒)级抢单
 > http://npm.taobao.org/mirrors/chromedriver/
 
 4、把 ChromeDriver 添加到环境变量(Windows)
-> 把 chromedriver.txt 移动到 taobao 目录下  
+> 把 chromedriver.exe 移动到 taobao 目录下  
 > 例：.../taobao/chromedriver.exe
 
 4、把 ChromeDriver 添加到环境变量(MacOS/Linux)
