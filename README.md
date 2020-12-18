@@ -34,4 +34,4 @@ python 实现自动抢单，目前只能实现秒(或毫秒)级抢单
 5、在 taobao 目录下创建名为 screenshots 的文件夹
 > 例：.../taobao/screenshots
 
-6、开始使用吧！！！！
+6、开始使用吧！！！
